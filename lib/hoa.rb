@@ -9,5 +9,5 @@ def add_character(:chipmunks, "Dave")
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  add_character[:chipmunks] << "Dave"
+  BASE_HOA[:chipmunks] << "Dave"
 end
